@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moon.REmote</string>
+    <string name="send_signal">Отправить сигнал</string>
+    <string name="remove_signal">Удалить сигнал</string>
+</resources>
